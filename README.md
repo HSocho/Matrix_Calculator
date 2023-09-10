@@ -8,12 +8,12 @@ Před spuštěním je třeba nainstalovat Python. Kalkulačka se spustí příka
 
 ### Návod
 
-Kalkulačka matic umožňuje dělat s maticemi sčítání, násobení, transpozici, inverzi, výpočet determinantu a LU rozklad.
+Kalkulačka matic umožňuje dělat s maticemi sčítání, násobení, transpozici, inverzi, výpočet determinantu a LU rozklad.  
 Kalkulačka se ovládá zadáním čísla, před příslušnou možností.
 
 #### Formát vstupu
 
-Standardní vstup: Matici lze zadat řádek po řádku, kde jsou čísla odděleny mezerou. Vstup je ukončen prázdným řádkem.
+Standardní vstup: Matici lze zadat řádek po řádku, kde jsou čísla odděleny mezerou. Vstup je ukončen prázdným řádkem.  
 Soubor: Matici lze zadat ve stejném formátu jako standardní vstup nebo i s hranatými závarkami na zaačátku a konci řádku. Musí být poskytnuta cesta k souboru.
 #### Formát výstupu:
 
